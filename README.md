@@ -65,6 +65,8 @@ Pursue growth through expanded capacity, new patient acquisition, and competitiv
 
 **Dataset:** 110,527 appointment records — Vitória, Brazil (2016), applied as a behavioral proxy for small community provider dynamics in any high-growth market where monopoly conditions are transitioning to competition.
 
+**Dataset Source:** [Medical Appointment No Shows](https://www.kaggle.com/datasets/joniarroba/noshowappointments) — Joni Hoppen via Kaggle
+
 **Analysis Date:** May 2026
 
 ---
