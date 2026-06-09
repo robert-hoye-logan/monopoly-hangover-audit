@@ -2,7 +2,7 @@
   FORENSIC DATA AUDIT (MASTER LOGIC TRAIL)
   LEAD ANALYST: Robert Hoye-Logan
   VERSION: 2.2
-  PROJECT: Patient No-Show Analysis (Google Capstone)
+  PROJECT: Patient No-Show Analysis — Healthcare Operations Forensic Audit
   GOAL: Identify the internal operational rot driving revenue leaks.
   THEORY: The "Trust Wall" threshold is hit at 10 days — the point where retention fails across all patient segments.
 
