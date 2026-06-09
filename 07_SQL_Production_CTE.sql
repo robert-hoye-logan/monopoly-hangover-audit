@@ -2,7 +2,7 @@
   FORENSIC DATA AUDIT — PRODUCTION CTE
   LEAD ANALYST: Robert Hoye-Logan
   VERSION: 1.6
-  PROJECT: Patient No-Show Analysis (Google Capstone)
+  PROJECT: Patient No-Show Analysis — Healthcare Operations Forensic Audit
   GOAL: Quantify fiscal leakage driven by patient no-show behavior across 
 all operational dimensions. Confirmed total fiscal leak: $4,453,920 
 ($4,144,560 Out-of-Pocket + $309,360 Medicaid) based on Scholarship 
