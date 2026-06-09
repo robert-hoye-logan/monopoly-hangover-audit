@@ -36,7 +36,7 @@ Pursue growth through expanded capacity, new patient acquisition, and competitiv
 ## Tools & Methods
 
 - **SQL / BigQuery** — Forensic data analysis across 110,527 appointment records
-- **Python / pandas** — Full replication of the SQL audit in Python, confirming all findings independently and to the decimal
+- **Python / pandas** — Full replication of the SQL audit in Python, demonstrating cross-platform reproducibility of all findings using equivalent logic
 - **Tableau Public** — Dashboard with four analytical assets visualizing the Trust Wall finding, SMS analysis, Triple Threat clinical friction, and revenue split.
 - **Documentation** — Executive summary, operational recommendations, validation report, and presentation framework
 
@@ -48,7 +48,7 @@ Pursue growth through expanded capacity, new patient acquisition, and competitiv
 |------|-------------|
 | `06_SQL_Master_StepByStep.sql` | Forensic workbench — standalone queries executed sequentially for step-by-step audit |
 | `07_SQL_Production_CTE.sql` | Production architecture — single coherent CTE chain covering all analytical dimensions |
-| `08_Python_Audit_Notebook.ipynb` | Python replication — all SQL findings confirmed in pandas, structured as a Kaggle-ready notebook |
+| `08_Python_Audit_Notebook.ipynb` | Python replication — all SQL findings reproduced from the raw CSV using equivalent logic — cross-platform reproducibility demonstration |
 
 ---
 
