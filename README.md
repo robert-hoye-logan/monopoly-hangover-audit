@@ -54,8 +54,8 @@ Pursue growth through expanded capacity, new patient acquisition, and competitiv
 
 ## Project Deliverables
 
-- 📊 **Tableau Dashboard** — *(link to be added upon public release)*
-- 📑 **Presentation Slides** — *(link to be added upon public release)*
+- 📊 **Tableau Dashboard** — [The Monopoly Hangover Audit](https://public.tableau.com/views/Monopoly_Hangover_Audit_Data/Dashboard1)
+- 📑 **Presentation Slides** — [Executive Presentation](https://canva.link/1bdtz1qdh1jz2b6)
 
 ---
 
