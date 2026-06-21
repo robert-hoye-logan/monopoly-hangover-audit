@@ -56,6 +56,7 @@ Pursue growth through expanded capacity, new patient acquisition, and competitiv
 
 - 📊 **Tableau Dashboard** — [The Monopoly Hangover Audit](https://public.tableau.com/views/Monopoly_Hangover_Audit_Data/Dashboard1)
 - 📑 **Presentation Slides** — [Executive Presentation](https://canva.link/j14gh12g07ei4l9)
+- 🐍 **Python Notebook** — [The Monopoly Hangover Audit](https://www.kaggle.com/code/roberthoyelogan/the-monopoly-hangover-audit)
 
 ---
 
